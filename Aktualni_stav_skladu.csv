@@ -1,4 +1,4 @@
-[LAST_UPDATE];10.11.2026 09:25;
+[LAST_UPDATE];10.11.2026 09:52;
 11;101000;Platan sv.lež. tank 1hl;tank;1.0000;20.0000
 11;101010;Platan sv.lež. keg 15l;keg;.1500;40.0000
 11;101030;Platan sv.lež. keg 30l;keg;.3000;120.0000
@@ -179,14 +179,14 @@
 12;103030;Protiv. Granát ptm.lež. keg 30l;keg;.3000;.0000
 12;103550;Protiv. Granát ptm.lež. la.20/0,5l;lahev;.1000;1.0000
 12;10355092;Protiv. Granát ptm.lež. la.20/0,5l;lahev;.1000;58.0000
-12;104351;Platan 10 sv.výč. pl. 24/0,5l;plech;.1200;10.0000
+12;104351;Platan 10 sv.výč. pl. 24/0,5l;plech;.1200;2.0000
 12;104550;Platan 10 sv.výč. 20/0,5l;lahev;.1000;4.0000
 12;105030;Platan kv.sv.lež. keg 30l;keg;.3000;1.0000
 12;107550;Platan sv.nealk. la.20/0,5l;lahev;.1000;2.0000
 12;132350001;Bertold nealko pl.24/05l;plech;.1200;23.0000
-12;132550;Bertold sv.nealk. la.20/0,5l;lahev;.1000;12.0000
-12;135350001;Bertold ležák pl. 24/0,5l;plech;.1200;15.0000
-12;135550;Bertold sv. lež., la 20/0,5l;lahev;.1000;52.0000
+12;132550;Bertold sv.nealk. la.20/0,5l;lahev;.1000;4.0000
+12;135350001;Bertold ležák pl. 24/0,5l;plech;.1200;8.0000
+12;135550;Bertold sv. lež., la 20/0,5l;lahev;.1000;48.0000
 12;150030;Šenkovní sv.výč. keg 30l;keg;.3000;16.0000
 12;150050;Šenkovní sv.výč. keg 50l;keg;.5000;70.0000
 12;150050001;Privát sv.výč. keg 50l;keg;.5000;7.0000
@@ -202,7 +202,7 @@
 12;151050;Ježek 11 sv.lež. keg 50l;keg;.5000;262.0000
 12;151050002;Vrták extra hořký ležák keg 50l;keg;.5000;12.0000
 12;151050005;Bauerova 11 sv.lež. keg 50l;keg;.5000;12.0000
-12;151550;Ježek 11 sv.lež. la.20/0,5l;lahev;.1000;435.0000
+12;151550;Ježek 11 sv.lež. la.20/0,5l;lahev;.1000;431.0000
 12;15155092;Ježek 11 sv.lež. la.20/0,5l;lahev;.1000;38.0000
 12;155010;Ježek kvasnicový  keg 15l;keg;.1500;2.0000
 12;155030;Ježek kvasnicový keg 30l;keg;.3000;35.0000
@@ -212,7 +212,7 @@
 12;193550;Argus sv.výč. la.20/0,5l;lahev;.1000;536.0000
 12;193550001;Ježek Dukla 12 la.20/0,5l;lahev;.1000;74.0000
 12;193880;Ježek Dukla 12,MP 8x0,5l;lahev;.0400;4.0000
-12;196550001;Klášter 11 sv.ležák la.20/0,5l;lahev;.1000;339.0000
+12;196550001;Klášter 11 sv.ležák la.20/0,5l;lahev;.1000;243.0000
 12;197550001;Klášter Premium sv.lež. la.20/0,5l;lahev;.1000;171.0000
 12;360030;Rychtář Fojt sv.výč. keg 30l;keg;.3000;1.0000
 12;360050;Rychtář Fojt sv.výč. keg 50l;keg;.5000;10.0000
