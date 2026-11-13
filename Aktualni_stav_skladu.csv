@@ -1,4 +1,4 @@
-[LAST_UPDATE];12.11.2026 17:25;
+[LAST_UPDATE];13.11.2026 01:39;
 11;101010;Platan sv.lež. keg 15l;keg;.1500;37.0000
 11;101030;Platan sv.lež. keg 30l;keg;.3000;89.0000
 11;10103019;Platan sv.lež. DK keg 30l;keg;.3000;65.0000
@@ -179,12 +179,12 @@
 12;102350;Platan Prem. sv.lež. pl. 24/0,5l;plech;.1200;1.0000
 12;103030;Protiv. Granát ptm.lež. keg 30l;keg;.3000;.0000
 12;103550;Protiv. Granát ptm.lež. la.20/0,5l;lahev;.1000;1.0000
-12;10355092;Protiv. Granát ptm.lež. la.20/0,5l;lahev;.1000;98.0000
+12;10355092;Protiv. Granát ptm.lež. la.20/0,5l;lahev;.1000;94.0000
 12;104351;Platan 10 sv.výč. pl. 24/0,5l;plech;.1200;10.0000
 12;104550;Platan 10 sv.výč. 20/0,5l;lahev;.1000;8.0000
 12;105030;Platan kv.sv.lež. keg 30l;keg;.3000;2.0000
 12;107550;Platan sv.nealk. la.20/0,5l;lahev;.1000;6.0000
-12;135550;Bertold sv. lež., la 20/0,5l;lahev;.1000;20.0000
+12;135550;Bertold sv. lež., la 20/0,5l;lahev;.1000;12.0000
 12;150030;Šenkovní sv.výč. keg 30l;keg;.3000;10.0000
 12;150030003;Vrták 10 sv.výč. keg 30l;keg;.3000;2.0000
 12;150050;Šenkovní sv.výč. keg 50l;keg;.5000;70.0000
@@ -201,7 +201,7 @@
 12;151050;Ježek 11 sv.lež. keg 50l;keg;.5000;227.0000
 12;151050002;Vrták extra hořký ležák keg 50l;keg;.5000;12.0000
 12;151050005;Bauerova 11 sv.lež. keg 50l;keg;.5000;12.0000
-12;151550;Ježek 11 sv.lež. la.20/0,5l;lahev;.1000;307.0000
+12;151550;Ježek 11 sv.lež. la.20/0,5l;lahev;.1000;303.0000
 12;15155092;Ježek 11 sv.lež. la.20/0,5l;lahev;.1000;34.0000
 12;155010;Ježek kvasnicový  keg 15l;keg;.1500;2.0000
 12;155030;Ježek kvasnicový keg 30l;keg;.3000;35.0000
@@ -212,7 +212,7 @@
 12;193550001;Ježek Dukla 12 la.20/0,5l;lahev;.1000;74.0000
 12;193880;Ježek Dukla 12,MP 8x0,5l;lahev;.0400;4.0000
 12;196550001;Klášter 11 sv.ležák la.20/0,5l;lahev;.1000;300.0000
-12;197550001;Klášter Premium sv.lež. la.20/0,5l;lahev;.1000;171.0000
+12;197550001;Klášter Premium sv.lež. la.20/0,5l;lahev;.1000;163.0000
 12;360030;Rychtář Fojt sv.výč. keg 30l;keg;.3000;1.0000
 12;360050;Rychtář Fojt sv.výč. keg 50l;keg;.5000;10.0000
 12;360550;Rychtář Fojt sv.výč. la.20/0,5l;lahev;.1000;15.0000
@@ -250,7 +250,7 @@
 12;479010;Hořká 11 sv.lež.keg 15l;keg;.1500;.0000
 12;479030;Hořká 11 sv.lež.keg 30l;keg;.3000;2.0000
 12;479050;Hořká 11 sv.lež.keg 50l;keg;.5000;3.0000
-12;479350;Hořká 11 sv.lež. pl. 24/0,5l;plech;.1200;17.0000
+12;479350;Hořká 11 sv.lež. pl. 24/0,5l;plech;.1200;9.0000
 12;479550;Hořká 11 sv.lež.la.20x0,5l;lahev;.1000;37.0000
 12;47955092;Hořká 11 sv.lež.la.20x0,5l;lahev;.1000;82.0000
 12;481030;Matouš, sv.lež. keg 30l;keg;.3000;5.0000
@@ -259,7 +259,7 @@
 12;660010;Black Hill Cider, keg 15l;keg;.1500;1.0000
 12;660030;Black Hill Cider, keg 30l;keg;.3000;2.0000
 12;660530;Black Hill Cider, la. 20/0,33l;lahev;.0660;3.0000
-12;661220;Frizzano , bílé suché per.víno pKeg 20l;pkeg;.2000;105.0000
+12;661220;Frizzano , bílé suché per.víno pKeg 20l;pkeg;.2000;69.0000
 12;702030;Lobkowicz Prem. LEŽÁK keg 30l;keg;.3000;5.0000
 12;702350;Lobkowicz Prem. LEŽÁK pl. 24/0,5l;plech;.1200;3.0000
 12;702550;Lobkowicz Prem. LEŽÁK la. 20/0,5l;lahev;.1000;2.0000
@@ -704,17 +704,17 @@
 17;452050;ČH Ležák sv.lež. keg 50l;keg;.5000;40.0000
 17;452050001;Zlatovar Premium keg 50l;keg;.5000;31.0000
 17;452070;ČH Ležák sv.lež. soudek 5l;soudek;.0500;2.0000
-17;452550;ČH Ležák sv.lež. la.20/0,5l;lahev;.1000;127.0000
-17;452550002;Démon Ležák sv.lež. la.20/0,5l;lahev;.1000;9.0000
-17;452550910;Démon ležák sv.la.;lahev;.0050;119.0000
+17;452550;ČH Ležák sv.lež. la.20/0,5l;lahev;.1000;126.0000
+17;452550002;Démon Ležák sv.lež. la.20/0,5l;lahev;.1000;1.0000
+17;452550910;Démon ležák sv.la.;lahev;.0050;127.0000
 17;452750001;ČH Ležák sv.lež.IT krt.la.20/0,5l;lahev;.1000;135.0000
 17;452750151;CERNA HORA Lezak sv.krt.20x0,5l 12M;lahev;.1000;45.0000
 17;453010;Granát ČH tm.lež. keg 15l;keg;.1500;1.0000
 17;453030;Granát ČH tm.lež. keg 30l;keg;.3000;32.0000
-17;453550;Granát ČH tm.lež. la.20/0,5l;lahev;.1000;151.0000
-17;453550002;Démon tmavý ležák la.20/0,5l;lahev;.1000;9.0000
-17;453550910;Démon tm.lež. la.;lahev;.0050;119.0000
-17;45355092;Granát ČH tm.lež. la.20/0,5l;lahev;.1000;3.0000
+17;453550;Granát ČH tm.lež. la.20/0,5l;lahev;.1000;119.0000
+17;453550002;Démon tmavý ležák la.20/0,5l;lahev;.1000;1.0000
+17;453550910;Démon tm.lež. la.;lahev;.0050;127.0000
+17;45355092;Granát ČH tm.lež. la.20/0,5l;lahev;.1000;35.0000
 17;453750151;CERNA HORA tm.lež. krt.20X0,5l 12M;lahev;.1000;45.0000
 17;455030;Sklepní sv.výč.nef. keg 30l;keg;.3000;10.0000
 17;455050;Sklepní sv.výč.nef. keg 50l;keg;.5000;38.0000
@@ -727,8 +727,8 @@
 17;475030;Démon ptm.speciál keg 30l;keg;.3000;25.0000
 17;475050;Démon ptm.speciál keg 50l;keg;.5000;3.0000
 17;475550;Démon ptm.speciál la.20/0,5l;lahev;.1000;73.0000
-17;475550002;Démon 13 ptm.speciál la.20/0,5l;lahev;.1000;9.0000
-17;475550910;Démon 13 ptm.la.;lahev;.0050;119.0000
+17;475550002;Démon 13 ptm.speciál la.20/0,5l;lahev;.1000;1.0000
+17;475550910;Démon 13 ptm.la.;lahev;.0050;127.0000
 17;476550;Max X sv.výč. la.20/0,5l;lahev;.1000;6.0000
 17;478030;Flying Cloud IPA ptm.svrch.kvaš. keg 30l;keg;.3000;8.0000
 17;478550;Flying Cloud IPA,ptm.svrch.kvaš.la20/0,5;lahev;.1000;25.0000
