@@ -1,4 +1,4 @@
-[LAST_UPDATE];18.11.2026 17:25;
+[LAST_UPDATE];19.11.2026 01:37;
 11;101000;Platan sv.lež. tank 1hl;tank;1.0000;20.0000
 11;101010;Platan sv.lež. keg 15l;keg;.1500;29.0000
 11;101030;Platan sv.lež. keg 30l;keg;.3000;50.0000
@@ -700,8 +700,8 @@
 17;450050001;Zlatovar AXMAN keg 50l;keg;.5000;24.0000
 17;450550;Tas sv.výč. la.20/0,5l;lahev;.1000;79.0000
 17;451010;Páter sv.lež. keg 15l;keg;.1500;11.0000
-17;451030;Páter sv.lež. keg 30l;keg;.3000;80.0000
-17;451030002;Patriot sv.ležák keg 30l;keg;.3000;7.0000
+17;451030;Páter sv.lež. keg 30l;keg;.3000;87.0000
+17;451030002;Patriot sv.ležák keg 30l;keg;.3000;.0000
 17;451050;Páter sv.lež. keg 50l;keg;.5000;82.0000
 17;451050004;Vévoda sv.lež. keg 50l;keg;.5000;23.0000
 17;451550;Páter sv.lež. la.20/0,5l;lahev;.1000;10.0000
