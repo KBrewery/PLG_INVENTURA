@@ -1,4 +1,4 @@
-[LAST_UPDATE];25.11.2026 17:25;
+[LAST_UPDATE];26.11.2026 01:44;
 11;101000;Platan sv.lež. tank 1hl;tank;1.0000;15.0000
 11;101010;Platan sv.lež. keg 15l;keg;.1500;38.0000
 11;101030;Platan sv.lež. keg 30l;keg;.3000;109.0000
@@ -25,7 +25,7 @@
 11;104351;Platan 10 sv.výč. pl. 24/0,5l;plech;.1200;116.0000
 11;104351004;Trumf sv.výč. pl. 24/0,5l;plech;.1200;23.0000
 11;104351005;Husťan sv. výč. krt.pl. 6x0,5l;plech;.0300;.0000
-11;104550;Platan 10 sv.výč. 20/0,5l;lahev;.1000;234.0000
+11;104550;Platan 10 sv.výč. 20/0,5l;lahev;.1000;235.0000
 11;105030;Platan kv.sv.lež. keg 30l;keg;.3000;20.0000
 11;107550;Platan sv.nealk. la.20/0,5l;lahev;.1000;83.0000
 11;10755035;Platan sv.nealk. la.20/0,5l bez etiket;lahev;.1000;80.0000
@@ -673,7 +673,7 @@
 17;362550;Rychtář Prem.sv.lež.la.20/0,5l;lahev;.1000;15.0000
 17;365030;Rychtář Natur kv.sv.lež. keg 30l;keg;.3000;.0000
 17;374010;Rychtář Rataj sv.lež., keg 15l;keg;.1500;1.0000
-17;374030;Rychtář Rataj sv.lež., keg 30l;keg;.3000;6.0000
+17;374030;Rychtář Rataj sv.lež., keg 30l;keg;.3000;4.0000
 17;374050;Rychtář Rataj sv.lež., keg 50l;keg;.5000;9.0000
 17;377030;Svatomartinský ležák extra chm., keg 30l;keg;.3000;16.0000
 17;377550;Svatomartinský extra chm.la.20/0,5l;lahev;.1000;1.0000
