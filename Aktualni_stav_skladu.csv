@@ -1,4 +1,4 @@
-[LAST_UPDATE];26.11.2026 17:25;
+[LAST_UPDATE];27.11.2026 01:44;
 11;101000;Platan sv.lež. tank 1hl;tank;1.0000;15.0000
 11;101010;Platan sv.lež. keg 15l;keg;.1500;34.0000
 11;101030;Platan sv.lež. keg 30l;keg;.3000;69.0000
@@ -733,7 +733,9 @@
 17;478750;Flying Cloud IPA, krt. 20/0,5l;lahev;.1000;1.0000
 17;479010;Hořká 11 sv.lež.keg 15l;keg;.1500;25.0000
 17;479030;Hořká 11 sv.lež.keg 30l;keg;.3000;157.0000
-17;479050;Hořká 11 sv.lež.keg 50l;keg;.5000;136.0000
+17;479050;Hořká 11 sv.lež.keg 50l;keg;.5000;131.0000
+17;479050001;Chrlická 11 keg 50l;keg;.5000;5.0000
+17;479050005;PéKáčko 11 sv.lež. keg 50l;keg;.5000;1.0000
 17;479060;Hořká 11 sv.lež. keg 10l;keg;.1000;3.0000
 17;479070;Hořká 11 sv.lež. soudek 5l;soudek;.0500;1.0000
 17;479350;Hořká 11 sv.lež. pl. 24/0,5l;plech;.1200;58.0000
